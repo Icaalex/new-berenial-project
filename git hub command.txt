@@ -15,3 +15,8 @@ git add -A or git add .
 
 // commit your chnages
 git commit -m 
+
+
+git remote add origin https://github.com/Icaalex/new-berenial-project.git
+git branch -M main
+git push -u origin main
