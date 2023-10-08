@@ -1,0 +1,17 @@
+// initilise a project as git project
+
+git init
+
+git remote set origin repo_url (https://{userid}.github.io/{reponame})https://github.com/Icaalex/berenia-task
+
+// check the connected repo
+git remote -v
+
+// to change the repo url
+git remote set-url repo_url
+
+to add your chnages or files
+git add -A or git add .
+
+// commit your chnages
+git commit -m 
